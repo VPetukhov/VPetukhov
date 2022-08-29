@@ -1,16 +1,19 @@
-### Hi there 👋
+## My open source projects
 
-<!--
-**VPetukhov/VPetukhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bioinformatics
 
-Here are some ideas to get you started:
+- *[vpscituls](https://github.com/VPetukhov/vpscutils): my helper functions for single-cell analysis*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### General
+
+- **[ggrastr](https://github.com/VPetukhov/ggrastr)**: rasterize individual layers for ggplot2  
+  [![CRAN status](https://www.r-pkg.org/badges/version/ggrastr)](https://cran.r-project.org/package=ggrastr) [![CRAN downloads](https://cranlogs.r-pkg.org/badges/ggrastr)](https://cran.r-project.org/package=ggrastr)
+
+### Personal configs
+
+- [Linux](https://github.com/VPetukhov/linux_configs)
+- [RStudio](https://github.com/VPetukhov/rstudio_config)
+
+---
+
+[![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpetukhov)](https://github.com/anuraghazra/github-readme-stats)
