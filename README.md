@@ -17,6 +17,7 @@
 
 - [Enforcing spatial structure on word2vec](https://github.com/VPetukhov/GraphRegularizedNNs). Application of ideas from [Interpretable Neuron Structuring with Graph Spectral Regularization](https://arxiv.org/pdf/1810.00424.pdf) during my participation in the [AI Safety Camp](https://www.lesswrong.com/posts/QEmfyhqMcSpfnY2dX/how-teams-went-about-their-research-at-ai-safety-camp) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 - [Piecewise-linear approximation of 1D time-series](https://github.com/VPetukhov/StockSegmentation) using splines on stock data <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
+- [FastRandPCA.jl](https://github.com/VPetukhov/FastRandPCA.jl): Fast randomized PCA algorithms for Sparse Data, re-implementation of [frPCA_sparse](https://github.com/XuFengthucs/frPCA_sparse).
 
 ### General
 
