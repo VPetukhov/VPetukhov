@@ -25,6 +25,7 @@
   [![CRAN status](https://www.r-pkg.org/badges/version/ggrastr)](https://cran.r-project.org/package=ggrastr) [![CRAN downloads](https://cranlogs.r-pkg.org/badges/ggrastr)](https://cran.r-project.org/package=ggrastr)
 - [dataorganizer](https://github.com/khodosevichlab/dataorganizer): a [research compendium](https://research-compendium.science/) package for scientific projects in R <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/r/r.svg" height="16" class="image is-16x16 is-inline-block" />
 - [MailDay Extension](https://github.com/VPetukhov/MailDayExtension) for Thunderbird: implementation of the [Maxim Dorofeev's idea](https://forum.mnogosdelal.ru/viewtopic.php?f=7&t=865) on how to motivate yourself to proces old emails. <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript.svg" height="16" class="image is-16x16 is-inline-block" />
+- [tts-wrappers](https://github.com/VPetukhov/tts-wrappers): unified interface for various text-to-speech services (Google Cloud TTS, Yandex SpeechKit, ElevenLabs, and others). <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 
 ### Personal
 
